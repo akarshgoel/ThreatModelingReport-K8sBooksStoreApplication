@@ -2,7 +2,8 @@
 
 
 
-**Threats are majorly based on K8s Security, JWT Tokens & Application Security Fundamentals.**
+**Threats are majorly based on K8s Security, JWT Tokens & Application Security Fundamentals.** 
+**Assumptions - Books & User records are stored in Postgres DB**
 
 
 
