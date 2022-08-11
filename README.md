@@ -1,4 +1,4 @@
-# Threat Modeling Report for Kubernetes based - Test BooksStore Application
+# Threat Modeling Report for K8s based - Test BooksStore Application
 
 
 
